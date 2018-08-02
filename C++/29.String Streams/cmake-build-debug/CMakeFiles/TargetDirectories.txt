@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/29.String Streams/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/29.String Streams/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/29.String Streams/cmake-build-debug/CMakeFiles/29_String_Streams.dir

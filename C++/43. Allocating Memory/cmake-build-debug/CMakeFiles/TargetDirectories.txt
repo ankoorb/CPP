@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/43. Allocating Memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/43. Allocating Memory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/43. Allocating Memory/cmake-build-debug/CMakeFiles/43__Allocating_Memory.dir

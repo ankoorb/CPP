@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/45.Namespaces/Animal.cpp
+Animal.h
+/Users/ankoor/Desktop/Programming/C++/45.Namespaces/Animal.h
+
+/Users/ankoor/Desktop/Programming/C++/45.Namespaces/Animal.h
+iostream
+-
+
+/Users/ankoor/Desktop/Programming/C++/45.Namespaces/Dog.cpp
+Dog.h
+/Users/ankoor/Desktop/Programming/C++/45.Namespaces/Dog.h
+
+/Users/ankoor/Desktop/Programming/C++/45.Namespaces/Dog.h
+iostream
+-
+
+/Users/ankoor/Desktop/Programming/C++/45.Namespaces/main.cpp
+Dog.h
+/Users/ankoor/Desktop/Programming/C++/45.Namespaces/Dog.h
+Animal.h
+/Users/ankoor/Desktop/Programming/C++/45.Namespaces/Animal.h
+

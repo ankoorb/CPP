@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/Screen.cpp
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/Screen.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/Screen.h
+SDL2/SDL.h
+-
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/main.cpp
+iostream
+-
+SDL2/SDL.h
+-
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/Screen.h
+

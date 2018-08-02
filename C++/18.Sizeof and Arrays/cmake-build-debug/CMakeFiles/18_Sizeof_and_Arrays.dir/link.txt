@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/18_Sizeof_and_Arrays.dir/main.cpp.o  -o 18_Sizeof_and_Arrays 

@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/51.Postfix and Prefix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/51.Postfix and Prefix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/51.Postfix and Prefix/cmake-build-debug/CMakeFiles/51_Postfix_and_Prefix.dir

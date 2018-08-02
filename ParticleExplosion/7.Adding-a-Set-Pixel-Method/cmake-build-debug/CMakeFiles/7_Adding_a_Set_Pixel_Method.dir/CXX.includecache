@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/7.Adding-a-Set-Pixel-Method/Screen.cpp
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/7.Adding-a-Set-Pixel-Method/Screen.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/7.Adding-a-Set-Pixel-Method/Screen.h
+SDL2/SDL.h
+-
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/7.Adding-a-Set-Pixel-Method/main.cpp
+iostream
+-
+SDL2/SDL.h
+-
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/7.Adding-a-Set-Pixel-Method/Screen.h
+

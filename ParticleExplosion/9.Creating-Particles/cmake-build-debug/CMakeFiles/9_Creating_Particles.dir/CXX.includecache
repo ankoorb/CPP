@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Particle.cpp
+Particle.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Particle.h
+stdlib.h
+-
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Particle.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Screen.cpp
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Screen.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Screen.h
+SDL2/SDL.h
+-
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Swarm.cpp
+Swarm.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Swarm.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Swarm.h
+Particle.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Particle.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/main.cpp
+iostream
+-
+SDL2/SDL.h
+-
+math.h
+-
+time.h
+-
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Screen.h
+Swarm.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/9.Creating-Particles/Swarm.h
+

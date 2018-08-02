@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc lib53_Creating_Static_Libraries.a  CMakeFiles/53_Creating_Static_Libraries.dir/main.cpp.o CMakeFiles/53_Creating_Static_Libraries.dir/Dog.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib lib53_Creating_Static_Libraries.a

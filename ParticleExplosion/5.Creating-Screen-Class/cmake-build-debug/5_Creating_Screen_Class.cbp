@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="5_Creating_Screen_Class"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\SDL2\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_Creating_Screen_Class">
+				<Option output="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/5_Creating_Screen_Class" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_Creating_Screen_Class"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_Creating_Screen_Class/fast">
+				<Option output="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/5_Creating_Screen_Class" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_Creating_Screen_Class/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/Screen.cpp">
+			<Option target="5_Creating_Screen_Class"/>
+		</Unit>
+		<Unit filename="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/Screen.h">
+			<Option target="5_Creating_Screen_Class"/>
+		</Unit>
+		<Unit filename="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/main.cpp">
+			<Option target="5_Creating_Screen_Class"/>
+		</Unit>
+		<Unit filename="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/5.Creating-Screen-Class/../../../../../../../usr/local/lib/cmake/SDL2/sdl2-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\SDL2\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

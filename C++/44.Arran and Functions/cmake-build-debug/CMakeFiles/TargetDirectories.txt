@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/44.Arran and Functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/44.Arran and Functions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/44.Arran and Functions/cmake-build-debug/CMakeFiles/44_Arran_and_Functions.dir

@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/5.Integer Variable Types/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/5.Integer Variable Types/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/5.Integer Variable Types/cmake-build-debug/CMakeFiles/5_Integer_Variable_Types.dir

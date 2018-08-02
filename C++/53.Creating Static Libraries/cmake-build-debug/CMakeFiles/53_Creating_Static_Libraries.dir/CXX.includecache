@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/53.Creating Static Libraries/Dog.cpp
+Dog.h
+/Users/ankoor/Desktop/Programming/C++/53.Creating Static Libraries/Dog.h
+iostream
+-
+
+/Users/ankoor/Desktop/Programming/C++/53.Creating Static Libraries/Dog.h
+
+/Users/ankoor/Desktop/Programming/C++/53.Creating Static Libraries/main.cpp
+iostream
+-
+Dog.h
+/Users/ankoor/Desktop/Programming/C++/53.Creating Static Libraries/Dog.h
+

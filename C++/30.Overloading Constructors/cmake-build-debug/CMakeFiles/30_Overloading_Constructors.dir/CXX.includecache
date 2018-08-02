@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/30.Overloading Constructors/Person.cpp
+sstream
+-
+Person.h
+/Users/ankoor/Desktop/Programming/C++/30.Overloading Constructors/Person.h
+
+/Users/ankoor/Desktop/Programming/C++/30.Overloading Constructors/Person.h
+iostream
+-
+
+/Users/ankoor/Desktop/Programming/C++/30.Overloading Constructors/main.cpp
+iostream
+-
+Person.h
+/Users/ankoor/Desktop/Programming/C++/30.Overloading Constructors/Person.h
+

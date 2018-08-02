@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/28.Getters and Setters/Person.cpp
+Person.h
+/Users/ankoor/Desktop/Programming/C++/28.Getters and Setters/Person.h
+
+/Users/ankoor/Desktop/Programming/C++/28.Getters and Setters/Person.h
+iostream
+-
+
+/Users/ankoor/Desktop/Programming/C++/28.Getters and Setters/main.cpp
+iostream
+-
+Person.h
+/Users/ankoor/Desktop/Programming/C++/28.Getters and Setters/Person.h
+

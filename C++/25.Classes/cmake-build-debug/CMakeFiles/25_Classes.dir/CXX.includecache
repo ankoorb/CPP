@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/25.Classes/Dog.cpp
+iostream
+-
+Dog.h
+/Users/ankoor/Desktop/Programming/C++/25.Classes/Dog.h
+
+/Users/ankoor/Desktop/Programming/C++/25.Classes/Dog.h
+
+/Users/ankoor/Desktop/Programming/C++/25.Classes/main.cpp
+iostream
+-
+Dog.h
+/Users/ankoor/Desktop/Programming/C++/25.Classes/Dog.h
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/4_Setting_Pixel_Colors.dir/main.cpp.o  -o 4_Setting_Pixel_Colors /usr/local/Cellar/sdl2/2.0.8/lib/libSDL2.dylib 

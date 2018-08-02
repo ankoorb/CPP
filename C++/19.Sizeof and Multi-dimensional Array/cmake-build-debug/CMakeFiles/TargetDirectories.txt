@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/19.Sizeof and Multi-dimensional Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/19.Sizeof and Multi-dimensional Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/19.Sizeof and Multi-dimensional Array/cmake-build-debug/CMakeFiles/19_Sizeof_and_Multi_dimensional_Array.dir

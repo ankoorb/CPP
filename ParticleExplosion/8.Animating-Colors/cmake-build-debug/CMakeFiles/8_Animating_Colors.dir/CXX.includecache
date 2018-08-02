@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/8.Animating-Colors/Screen.cpp
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/8.Animating-Colors/Screen.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/8.Animating-Colors/Screen.h
+SDL2/SDL.h
+-
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/8.Animating-Colors/main.cpp
+iostream
+-
+SDL2/SDL.h
+-
+math.h
+-
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/8.Animating-Colors/Screen.h
+

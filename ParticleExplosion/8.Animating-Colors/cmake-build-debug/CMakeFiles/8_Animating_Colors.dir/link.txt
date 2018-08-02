@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/8_Animating_Colors.dir/main.cpp.o CMakeFiles/8_Animating_Colors.dir/Screen.cpp.o  -o 8_Animating_Colors /usr/local/Cellar/sdl2/2.0.8/lib/libSDL2.dylib 

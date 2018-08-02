@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/27.Constrctors and Destructors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/27.Constrctors and Destructors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/27.Constrctors and Destructors/cmake-build-debug/CMakeFiles/27_Constrctors_and_Destructors.dir

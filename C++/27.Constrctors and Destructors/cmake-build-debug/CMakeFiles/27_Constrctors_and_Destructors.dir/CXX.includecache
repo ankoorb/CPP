@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/27.Constrctors and Destructors/Dog.cpp
+iostream
+-
+Dog.h
+/Users/ankoor/Desktop/Programming/C++/27.Constrctors and Destructors/Dog.h
+
+/Users/ankoor/Desktop/Programming/C++/27.Constrctors and Destructors/Dog.h
+
+/Users/ankoor/Desktop/Programming/C++/27.Constrctors and Destructors/main.cpp
+iostream
+-
+Dog.h
+/Users/ankoor/Desktop/Programming/C++/27.Constrctors and Destructors/Dog.h
+

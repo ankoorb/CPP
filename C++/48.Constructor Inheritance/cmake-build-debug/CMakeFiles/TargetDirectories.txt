@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/48.Constructor Inheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/48.Constructor Inheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/48.Constructor Inheritance/cmake-build-debug/CMakeFiles/48_Constructor_Inheritance.dir

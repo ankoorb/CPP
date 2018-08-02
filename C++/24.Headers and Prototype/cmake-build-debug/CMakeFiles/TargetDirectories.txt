@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/24.Headers and Prototype/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/24.Headers and Prototype/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/24.Headers and Prototype/cmake-build-debug/CMakeFiles/24_Headers_and_Prototype.dir

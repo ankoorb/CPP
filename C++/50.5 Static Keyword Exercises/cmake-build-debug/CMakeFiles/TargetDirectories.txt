@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/50.5 Static Keyword Exercises/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/50.5 Static Keyword Exercises/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/50.5 Static Keyword Exercises/cmake-build-debug/CMakeFiles/50_5_Static_Keyword_Exercises.dir

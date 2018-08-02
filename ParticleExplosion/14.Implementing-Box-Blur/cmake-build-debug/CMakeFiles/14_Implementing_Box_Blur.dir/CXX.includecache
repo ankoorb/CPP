@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Particle.cpp
+Particle.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Particle.h
+math.h
+-
+stdlib.h
+-
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Particle.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Screen.cpp
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Screen.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Screen.h
+SDL2/SDL.h
+-
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Swarm.cpp
+Swarm.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Swarm.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Swarm.h
+Particle.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Particle.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/main.cpp
+iostream
+-
+SDL2/SDL.h
+-
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Screen.h
+Swarm.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/14.Implementing-Box-Blur/Swarm.h
+

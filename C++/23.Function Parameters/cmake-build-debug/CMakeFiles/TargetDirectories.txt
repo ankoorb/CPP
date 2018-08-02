@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/23.Function Parameters/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/23.Function Parameters/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/23.Function Parameters/cmake-build-debug/CMakeFiles/23_Function_Parameters.dir

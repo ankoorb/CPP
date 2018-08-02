@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/3_Textures_Renderers_Buffers.dir/main.cpp.o  -o 3_Textures_Renderers_Buffers /usr/local/Cellar/sdl2/2.0.8/lib/libSDL2.dylib 

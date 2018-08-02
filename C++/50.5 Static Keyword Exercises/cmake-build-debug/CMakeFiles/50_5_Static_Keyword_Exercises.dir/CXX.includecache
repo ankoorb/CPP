@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/50.5 Static Keyword Exercises/Dog.cpp
+Dog.h
+/Users/ankoor/Desktop/Programming/C++/50.5 Static Keyword Exercises/Dog.h
+
+/Users/ankoor/Desktop/Programming/C++/50.5 Static Keyword Exercises/Dog.h
+iostream
+-
+
+/Users/ankoor/Desktop/Programming/C++/50.5 Static Keyword Exercises/main.cpp
+iostream
+-
+Dog.h
+/Users/ankoor/Desktop/Programming/C++/50.5 Static Keyword Exercises/Dog.h
+

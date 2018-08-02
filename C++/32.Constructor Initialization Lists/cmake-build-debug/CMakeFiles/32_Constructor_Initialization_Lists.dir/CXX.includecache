@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/32.Constructor Initialization Lists/Person.cpp
+Person.h
+/Users/ankoor/Desktop/Programming/C++/32.Constructor Initialization Lists/Person.h
+sstream
+/Users/ankoor/Desktop/Programming/C++/32.Constructor Initialization Lists/sstream
+
+/Users/ankoor/Desktop/Programming/C++/32.Constructor Initialization Lists/Person.h
+iostream
+-
+
+/Users/ankoor/Desktop/Programming/C++/32.Constructor Initialization Lists/main.cpp
+iostream
+-
+Person.h
+/Users/ankoor/Desktop/Programming/C++/32.Constructor Initialization Lists/Person.h
+

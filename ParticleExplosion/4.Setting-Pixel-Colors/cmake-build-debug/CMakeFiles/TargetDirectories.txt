@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/4.Setting-Pixel-Colors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/4.Setting-Pixel-Colors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/4.Setting-Pixel-Colors/cmake-build-debug/CMakeFiles/4_Setting_Pixel_Colors.dir

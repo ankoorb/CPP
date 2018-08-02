@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/6_Bit_Shifting_and_Colors.dir/main.cpp.o  -o 6_Bit_Shifting_and_Colors 

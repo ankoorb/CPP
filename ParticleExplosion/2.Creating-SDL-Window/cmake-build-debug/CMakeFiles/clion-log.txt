@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/ankoor/Desktop/Programming/C++/ParticleExplosion/2.Creating-SDL-Window
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ankoor/Desktop/Programming/C++/ParticleExplosion/2.Creating-SDL-Window/cmake-build-debug

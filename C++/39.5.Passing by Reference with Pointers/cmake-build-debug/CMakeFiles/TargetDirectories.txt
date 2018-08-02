@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/39.5.Passing by Reference with Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/39.5.Passing by Reference with Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/39.5.Passing by Reference with Pointers/cmake-build-debug/CMakeFiles/39_5_Passing_by_Reference_with_Pointers.dir

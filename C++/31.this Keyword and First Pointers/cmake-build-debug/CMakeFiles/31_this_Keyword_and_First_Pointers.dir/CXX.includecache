@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/31.this Keyword and First Pointers/Person.cpp
+Person.h
+/Users/ankoor/Desktop/Programming/C++/31.this Keyword and First Pointers/Person.h
+sstream
+-
+
+/Users/ankoor/Desktop/Programming/C++/31.this Keyword and First Pointers/Person.h
+iostream
+-
+
+/Users/ankoor/Desktop/Programming/C++/31.this Keyword and First Pointers/main.cpp
+iostream
+-
+Person.h
+/Users/ankoor/Desktop/Programming/C++/31.this Keyword and First Pointers/Person.h
+

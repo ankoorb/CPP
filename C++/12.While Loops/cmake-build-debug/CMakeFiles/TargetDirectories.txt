@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/12.While Loops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/12.While Loops/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/12.While Loops/cmake-build-debug/CMakeFiles/12_While_Loops.dir

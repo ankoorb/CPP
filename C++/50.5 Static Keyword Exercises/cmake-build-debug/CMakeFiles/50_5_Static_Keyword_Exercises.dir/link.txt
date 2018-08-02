@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/50_5_Static_Keyword_Exercises.dir/main.cpp.o CMakeFiles/50_5_Static_Keyword_Exercises.dir/Dog.cpp.o  -o 50_5_Static_Keyword_Exercises 

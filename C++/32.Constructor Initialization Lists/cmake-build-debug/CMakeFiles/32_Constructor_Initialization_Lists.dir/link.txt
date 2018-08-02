@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/32_Constructor_Initialization_Lists.dir/main.cpp.o CMakeFiles/32_Constructor_Initialization_Lists.dir/Person.cpp.o  -o 32_Constructor_Initialization_Lists 

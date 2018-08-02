@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Particle.cpp
+Particle.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Particle.h
+math.h
+-
+stdlib.h
+-
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Particle.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Screen.cpp
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Screen.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Screen.h
+SDL2/SDL.h
+-
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Swarm.cpp
+Swarm.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Swarm.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Swarm.h
+Particle.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Particle.h
+
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/main.cpp
+iostream
+-
+SDL2/SDL.h
+-
+Screen.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Screen.h
+Swarm.h
+/Users/ankoor/Desktop/Programming/C++/ParticleExplosion/12.Ensuring-Constant-Speed/Swarm.h
+

@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/C++/18.Sizeof and Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/C++/18.Sizeof and Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/C++/18.Sizeof and Arrays/cmake-build-debug/CMakeFiles/18_Sizeof_and_Arrays.dir
