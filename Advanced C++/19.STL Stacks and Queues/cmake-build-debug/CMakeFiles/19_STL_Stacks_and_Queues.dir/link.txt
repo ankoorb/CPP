@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/19_STL_Stacks_and_Queues.dir/main.cpp.o  -o 19_STL_Stacks_and_Queues 

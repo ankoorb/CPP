@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/16_STL_Custom_Objects_as_Map_Keys.dir/main.cpp.o  -o 16_STL_Custom_Objects_as_Map_Keys 

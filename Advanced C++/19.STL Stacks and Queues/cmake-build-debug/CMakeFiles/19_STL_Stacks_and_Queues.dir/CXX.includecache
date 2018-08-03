@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/Advanced C++/19.STL Stacks and Queues/main.cpp
+iostream
+-
+stack
+-
+queue
+-
+

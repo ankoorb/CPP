@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/20_STL_Sorting_Vectors_Deque_and_Friend.dir/main.cpp.o  -o 20_STL_Sorting_Vectors_Deque_and_Friend 

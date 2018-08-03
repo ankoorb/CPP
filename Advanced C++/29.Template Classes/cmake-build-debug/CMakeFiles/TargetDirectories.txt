@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/Advanced C++/29.Template Classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/Advanced C++/29.Template Classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/Advanced C++/29.Template Classes/cmake-build-debug/CMakeFiles/29_Template_Classes.dir
