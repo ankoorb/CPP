@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/Advanced C++/59.Move Constructors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/Advanced C++/59.Move Constructors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/Advanced C++/59.Move Constructors/cmake-build-debug/CMakeFiles/59_Move_Constructors.dir

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="49_Lambda_Capture_Expressions"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ankoor/Desktop/Programming/Advanced C++/49.Lambda Capture Expressions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ankoor/Desktop/Programming/Advanced C++/49.Lambda Capture Expressions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ankoor/Desktop/Programming/Advanced C++/49.Lambda Capture Expressions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="49_Lambda_Capture_Expressions">
+				<Option output="/Users/ankoor/Desktop/Programming/Advanced C++/49.Lambda Capture Expressions/cmake-build-debug/49_Lambda_Capture_Expressions" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ankoor/Desktop/Programming/Advanced C++/49.Lambda Capture Expressions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 49_Lambda_Capture_Expressions"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="49_Lambda_Capture_Expressions/fast">
+				<Option output="/Users/ankoor/Desktop/Programming/Advanced C++/49.Lambda Capture Expressions/cmake-build-debug/49_Lambda_Capture_Expressions" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ankoor/Desktop/Programming/Advanced C++/49.Lambda Capture Expressions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 49_Lambda_Capture_Expressions/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/49.Lambda\ Capture\ Expressions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ankoor/Desktop/Programming/Advanced C++/49.Lambda Capture Expressions/main.cpp">
+			<Option target="49_Lambda_Capture_Expressions"/>
+		</Unit>
+		<Unit filename="/Users/ankoor/Desktop/Programming/Advanced C++/49.Lambda Capture Expressions/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

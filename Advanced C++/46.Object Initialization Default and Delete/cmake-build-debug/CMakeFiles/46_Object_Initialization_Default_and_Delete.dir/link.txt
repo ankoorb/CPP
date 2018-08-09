@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/46_Object_Initialization_Default_and_Delete.dir/main.cpp.o  -o 46_Object_Initialization_Default_and_Delete 
