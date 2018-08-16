@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="3_A_Bitmap_Class"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_A_Bitmap_Class">
+				<Option output="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/3_A_Bitmap_Class" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_A_Bitmap_Class"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_A_Bitmap_Class/fast">
+				<Option output="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/3_A_Bitmap_Class" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_A_Bitmap_Class/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ankoor/Desktop/Programming/Advanced\ C++/MandelbrotFractal/3.A-Bitmap-Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/Bitmap.cpp">
+			<Option target="3_A_Bitmap_Class"/>
+		</Unit>
+		<Unit filename="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/Bitmap.h">
+			<Option target="3_A_Bitmap_Class"/>
+		</Unit>
+		<Unit filename="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/BitmapFileHeader.h">
+			<Option target="3_A_Bitmap_Class"/>
+		</Unit>
+		<Unit filename="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/BitmapInfoHeader.h">
+			<Option target="3_A_Bitmap_Class"/>
+		</Unit>
+		<Unit filename="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/main.cpp">
+			<Option target="3_A_Bitmap_Class"/>
+		</Unit>
+		<Unit filename="/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

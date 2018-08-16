@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/1_Bitmap_File_Headers.dir/main.cpp.o  -o 1_Bitmap_File_Headers 
