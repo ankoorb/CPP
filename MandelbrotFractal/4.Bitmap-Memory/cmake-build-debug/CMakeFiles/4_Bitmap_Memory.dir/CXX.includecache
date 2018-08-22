@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/4.Bitmap-Memory/Bitmap.cpp
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/4.Bitmap-Memory/Bitmap.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/4.Bitmap-Memory/Bitmap.h
+string
+-
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/4.Bitmap-Memory/BitmapFileHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/4.Bitmap-Memory/BitmapInfoHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/4.Bitmap-Memory/main.cpp
+iostream
+-
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/4.Bitmap-Memory/Bitmap.h
+BitmapFileHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/4.Bitmap-Memory/BitmapFileHeader.h
+BitmapInfoHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/4.Bitmap-Memory/BitmapInfoHeader.h
+

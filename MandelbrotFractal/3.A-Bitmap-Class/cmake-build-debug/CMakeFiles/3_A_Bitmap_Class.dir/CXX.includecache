@@ -13,8 +13,6 @@ Bitmap.h
 /Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/Bitmap.h
 string
 -
-cstdint
--
 
 /Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/3.A-Bitmap-Class/BitmapFileHeader.h
 cstdint

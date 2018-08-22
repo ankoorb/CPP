@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/Bitmap.cpp
+fstream
+-
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/Bitmap.h
+BitmapFileHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/BitmapFileHeader.h
+BitmapInfoHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/BitmapInfoHeader.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/Bitmap.h
+string
+-
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/BitmapFileHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/BitmapInfoHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/main.cpp
+iostream
+-
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/Bitmap.h
+

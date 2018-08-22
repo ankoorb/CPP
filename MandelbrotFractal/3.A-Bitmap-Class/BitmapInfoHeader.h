@@ -8,9 +8,10 @@
 #include <cstdint>
 using namespace std;
 
+#pragma pack(2)
+
 namespace fractal {
 
-    #pragma pack(2)
     struct BitmapInfoHeader {
         int32_t headerSize{40};  // Total bytes = 40 so memory sum from width to importantColors = 40
         int32_t width;

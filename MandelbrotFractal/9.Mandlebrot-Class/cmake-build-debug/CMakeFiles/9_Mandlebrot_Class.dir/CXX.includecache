@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/Bitmap.cpp
+fstream
+-
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/Bitmap.h
+BitmapFileHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/BitmapFileHeader.h
+BitmapInfoHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/BitmapInfoHeader.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/Bitmap.h
+string
+-
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/BitmapFileHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/BitmapInfoHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/Mandelbrot.cpp
+Mandelbrot.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/main.cpp
+iostream
+-
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/9.Mandlebrot-Class/Bitmap.h
+

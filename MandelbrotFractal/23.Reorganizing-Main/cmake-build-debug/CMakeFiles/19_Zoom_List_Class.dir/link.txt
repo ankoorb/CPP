@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/19_Zoom_List_Class.dir/main.cpp.o CMakeFiles/19_Zoom_List_Class.dir/Bitmap.cpp.o CMakeFiles/19_Zoom_List_Class.dir/Mandelbrot.cpp.o CMakeFiles/19_Zoom_List_Class.dir/ZoomList.cpp.o CMakeFiles/19_Zoom_List_Class.dir/FractalCreator.cpp.o  -o 19_Zoom_List_Class 

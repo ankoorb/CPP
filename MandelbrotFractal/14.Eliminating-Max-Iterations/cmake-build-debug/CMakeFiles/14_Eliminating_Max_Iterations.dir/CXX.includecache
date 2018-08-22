@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/Bitmap.cpp
+fstream
+-
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/Bitmap.h
+BitmapFileHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/BitmapFileHeader.h
+BitmapInfoHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/BitmapInfoHeader.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/Bitmap.h
+string
+-
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/BitmapFileHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/BitmapInfoHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/Mandelbrot.cpp
+complex
+-
+Mandelbrot.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/main.cpp
+iostream
+-
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/Bitmap.h
+Mandelbrot.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/14.Eliminating-Max-Iterations/Mandelbrot.h
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/32_Final.dir/main.cpp.o CMakeFiles/32_Final.dir/RGB.cpp.o CMakeFiles/32_Final.dir/Mandelbrot.cpp.o CMakeFiles/32_Final.dir/FractalCreator.cpp.o CMakeFiles/32_Final.dir/ZoomList.cpp.o CMakeFiles/32_Final.dir/Bitmap.cpp.o  -o 32_Final 

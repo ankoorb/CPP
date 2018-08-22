@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Bitmap.cpp
+fstream
+-
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Bitmap.h
+BitmapFileHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/BitmapFileHeader.h
+BitmapInfoHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/BitmapInfoHeader.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Bitmap.h
+string
+-
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/BitmapFileHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/BitmapInfoHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/FractalCreator.cpp
+iostream
+-
+FractalCreator.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/FractalCreator.h
+Mandelbrot.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/FractalCreator.h
+string
+-
+math.h
+-
+vector
+-
+Zoom.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Zoom.h
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Bitmap.h
+ZoomList.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/ZoomList.h
+RGB.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/RGB.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Mandelbrot.cpp
+complex
+-
+Mandelbrot.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/RGB.cpp
+RGB.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/RGB.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/RGB.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Zoom.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/ZoomList.cpp
+ZoomList.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/ZoomList.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/ZoomList.h
+vector
+-
+utility
+-
+Zoom.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Zoom.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/main.cpp
+iostream
+-
+FractalCreator.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/FractalCreator.h
+Zoom.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/29.Check-Range-Totals/Zoom.h
+

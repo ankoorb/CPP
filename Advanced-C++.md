@@ -4831,6 +4831,7 @@ int main() {
 - Memory leaks are a common problem in C++ programs because you do not get enough `delete`'s being called or the right type of `delete` for the objects you have allocated using `new`. Smart pointers helps you avoid these bugs by automatically de-allocating memory.
 - To use *smart pointers* you need to use `#include <memory>` as well as `using namespace std;`. If using `#include <iostream>`, it is already including memory so no need to use `#include <memory>`, if not then use `#include <memory>`
 - Use `unique_ptr<type> pvariable(new type)` to declare a pointer `pvariable`, the `type` is the `type` pointer is going to point at. `unique_ptr` is a `template` type, we want this to manage memory that will be allocated by `new`
+- Use `pVariable.get()` method to get pointer to underlying memory managed by `unique_ptr` *pVariable*
 
 ```c++
 int main() {
@@ -4954,8 +4955,141 @@ int main() {
 
 ### Shared Pointers
 
+- Shared pointers (`shared_ptr`) are similar to unique pointers, however they do not delete the memory associated with object until all the pointers that point at that object have gone out of scope. At the moment you can not use `shared_ptr` to point at arrays (this might change in C++ 17)
+- Use `shared_ptr<type> pvariable(new type)` to declare a shared pointer `pvariable`, the `type` is the `type` pointer is going to point at. 
+
+```c++
+#include <iostream>
+using namespace std;
+
+class Test {
+public:
+    Test(){ cout << "created" << endl; }
+    void greet(){ cout << "Hello!" << endl; }
+    ~Test(){ cout << "destroyed " << endl; }
+};
+
+int main() {
+
+	shared_ptr<Test> ptest(new Test);
+	ptest->greet();
+	
+	cout << "finished" << endl;  // This is run before "destroyed"
+	
+	return 0;
+}
+
+
+>>> created
+>>> Hello!
+>>> finished
+>>> destroyed 
+```
+
+- The best way to create a shared pointer is to use `make_shared` macro, where we do not have to use `new` and it is like template function. And according to documentation this approach is more efficient than using `new`.
+- Use `shared_ptr<type> pvariable = make_shared<type>()` to create a shared pointer. NOTE: Need to use `()` when using `make_shared` macro
+
+```c++
+int main() {
+
+    shared_ptr<Test> ptest = make_shared<Test>();  // Need ()
+
+    cout << "finished" << endl;  // This is run before "destroyed"
+
+    return 0;
+}
+
+>>> created
+>>> finished
+>>> destroyed 
+```
+- Example where memory will not get destroyed until both pointers (`pt` and `ptest`) have gone out of scope
+
+```c++
+int main() {
+
+    shared_ptr<Test> pt(nullptr);
+
+    {
+        shared_ptr<Test> ptest = make_shared<Test>();
+        pt = ptest;  
+    }
+    cout << "finished" << endl;  // This is run before "destroyed"
+
+    return 0;
+}
+
+>>> created
+>>> finished
+>>> destroyed
+```
 
 ### Multiple Inheritance
+
+```c++
+#include <iostream>
+using namespace std;
+
+class MusicalInstrument {
+public:
+    virtual void play(){ cout << "Playing instrument ..." << endl; }
+    virtual void reset(){ cout << "Resetting instrument ..." << endl; }
+    virtual ~MusicalInstrument(){};
+};
+
+class Machine {
+public:
+    virtual void start(){ cout << "Starting machine ..." << endl; }
+    virtual void reset(){ cout << "Resetting machine ..." << endl; }
+    virtual ~Machine(){}
+};
+
+// Class inheriting from multiple superclasses
+class Synthesizer: public Machine, public MusicalInstrument {
+public:
+    virtual ~Synthesizer(){};
+};
+
+int main() {
+
+    Synthesizer *pSynth = new Synthesizer();
+
+    pSynth->play();  // Method in MusicalInstrument
+    pSynth->start();  // Method in Machine
+    cout << endl;
+
+    delete pSynth;
+
+    return 0;
+}
+
+>>> Playing instrument ...
+>>> Starting machine ...
+```
+
+```c++
+int main() {
+
+    Synthesizer *pSynth = new Synthesizer();
+
+
+    // pSynth->reset(); // Error
+    pSynth->MusicalInstrument::reset();
+    pSynth->Machine::reset();
+
+    delete pSynth;
+
+    return 0;
+}
+
+>>> Resetting instrument ...
+>>> Resetting machine ...
+```
+
+- One reason multiple inheritance is bad because if a method that exists in all superclasses is called *error: member 'member_name' found in multiple base classes of different types*. For example using `pSynth->reset();` raises error. This can be solved by specifying from which superclass the method should be called, e.g. `pSynth->Machine::reset();`, however this requires you to know how Synthesizer is implemented and you want to encapsulate details of implementation as much as possible, i.e. you do not want the user of Synthesizer class to have to know what the superclasses of Synthesizer are. **In general it is better to avoid multiple inheritance. If superclasses have methods with identical signatures or identical prototypes the problem of ambiguous methods arises, so the methods need to be disambiguated which involves knowing implementation details of the derived class or child class.**
+
+
+
 
 
 

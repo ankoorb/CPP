@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/6_Writing_a_Bitmap.dir/main.cpp.o CMakeFiles/6_Writing_a_Bitmap.dir/Bitmap.cpp.o  -o 6_Writing_a_Bitmap 

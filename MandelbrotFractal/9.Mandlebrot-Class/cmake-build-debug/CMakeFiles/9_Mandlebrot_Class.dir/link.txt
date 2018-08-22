@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/9_Mandlebrot_Class.dir/main.cpp.o CMakeFiles/9_Mandlebrot_Class.dir/Bitmap.cpp.o CMakeFiles/9_Mandlebrot_Class.dir/Mandelbrot.cpp.o  -o 9_Mandlebrot_Class 

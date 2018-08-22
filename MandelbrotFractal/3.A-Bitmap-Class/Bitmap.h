@@ -6,7 +6,6 @@
 #define INC_3_A_BITMAP_CLASS_BITMAP_H
 
 #include <string>
-#include <cstdint>
 using namespace std;
 
 namespace fractal {

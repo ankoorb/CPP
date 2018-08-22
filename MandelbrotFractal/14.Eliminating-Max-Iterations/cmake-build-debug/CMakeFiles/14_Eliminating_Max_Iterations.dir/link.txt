@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/14_Eliminating_Max_Iterations.dir/main.cpp.o CMakeFiles/14_Eliminating_Max_Iterations.dir/Bitmap.cpp.o CMakeFiles/14_Eliminating_Max_Iterations.dir/Mandelbrot.cpp.o  -o 14_Eliminating_Max_Iterations 

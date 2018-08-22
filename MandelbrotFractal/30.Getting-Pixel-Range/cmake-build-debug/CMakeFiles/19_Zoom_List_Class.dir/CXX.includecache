@@ -1,0 +1,94 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Bitmap.cpp
+fstream
+-
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Bitmap.h
+BitmapFileHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/BitmapFileHeader.h
+BitmapInfoHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/BitmapInfoHeader.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Bitmap.h
+string
+-
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/BitmapFileHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/BitmapInfoHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/FractalCreator.cpp
+iostream
+-
+assert.h
+-
+FractalCreator.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/FractalCreator.h
+Mandelbrot.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/FractalCreator.h
+string
+-
+math.h
+-
+vector
+-
+Zoom.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Zoom.h
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Bitmap.h
+ZoomList.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/ZoomList.h
+RGB.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/RGB.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Mandelbrot.cpp
+complex
+-
+Mandelbrot.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/RGB.cpp
+RGB.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/RGB.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/RGB.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Zoom.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/ZoomList.cpp
+ZoomList.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/ZoomList.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/ZoomList.h
+vector
+-
+utility
+-
+Zoom.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Zoom.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/main.cpp
+iostream
+-
+FractalCreator.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/FractalCreator.h
+Zoom.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/30.Getting-Pixel-Range/Zoom.h
+

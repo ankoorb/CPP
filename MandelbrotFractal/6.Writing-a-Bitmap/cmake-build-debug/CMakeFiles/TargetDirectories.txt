@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/6.Writing-a-Bitmap/cmake-build-debug/CMakeFiles/6_Writing_a_Bitmap.dir

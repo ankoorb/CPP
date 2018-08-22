@@ -1,3 +1,0 @@
-/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/Udacity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/Udacity/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/Udacity/cmake-build-debug/CMakeFiles/Udacity.dir

@@ -1,0 +1,88 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Bitmap.cpp
+fstream
+-
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Bitmap.h
+BitmapFileHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/BitmapFileHeader.h
+BitmapInfoHeader.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/BitmapInfoHeader.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Bitmap.h
+string
+-
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/BitmapFileHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/BitmapInfoHeader.h
+cstdint
+-
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/FractalCreator.cpp
+FractalCreator.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/FractalCreator.h
+Mandelbrot.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/FractalCreator.h
+string
+-
+math.h
+-
+Zoom.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Zoom.h
+Bitmap.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Bitmap.h
+ZoomList.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/ZoomList.h
+RGB.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/RGB.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Mandelbrot.cpp
+complex
+-
+Mandelbrot.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Mandelbrot.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/RGB.cpp
+RGB.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/RGB.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/RGB.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Zoom.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/ZoomList.cpp
+ZoomList.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/ZoomList.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/ZoomList.h
+vector
+-
+utility
+-
+Zoom.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Zoom.h
+
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/main.cpp
+iostream
+-
+FractalCreator.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/FractalCreator.h
+Zoom.h
+/Users/ankoor/Desktop/Programming/Advanced C++/MandelbrotFractal/26.Using-RGB-Class/Zoom.h
+
