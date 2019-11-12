@@ -1,0 +1,3 @@
+/Users/ankoor/Desktop/Programming/DS/246.QueueUsingSTLStacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ankoor/Desktop/Programming/DS/246.QueueUsingSTLStacks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ankoor/Desktop/Programming/DS/246.QueueUsingSTLStacks/cmake-build-debug/CMakeFiles/246_QueueUsingSTLStacks.dir
