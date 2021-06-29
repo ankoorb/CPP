@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/UdacityC++/2.26.CarClass/Car.cpp
+Car.h
+/Users/ankoor/Desktop/Programming/UdacityC++/2.26.CarClass/Car.h
+
+/Users/ankoor/Desktop/Programming/UdacityC++/2.26.CarClass/Car.h
+iostream
+-
+string
+-
+
+/Users/ankoor/Desktop/Programming/UdacityC++/2.26.CarClass/main.cpp
+iostream
+-
+string
+-
+vector
+-
+Car.h
+/Users/ankoor/Desktop/Programming/UdacityC++/2.26.CarClass/Car.h
+
