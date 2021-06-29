@@ -1,3 +1,0 @@
-/Users/ankoor/Desktop/Programming/UdacityC++/2.6.ParseLines/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ankoor/Desktop/Programming/UdacityC++/2.6.ParseLines/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ankoor/Desktop/Programming/UdacityC++/2.6.ParseLines/cmake-build-debug/CMakeFiles/2_6_ParseLines.dir

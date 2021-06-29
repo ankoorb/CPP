@@ -1,3 +1,0 @@
-/Users/ankoor/Desktop/Programming/UdacityC++/2.24.Class-I/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ankoor/Desktop/Programming/UdacityC++/2.24.Class-I/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ankoor/Desktop/Programming/UdacityC++/2.24.Class-I/cmake-build-debug/CMakeFiles/2_24_Class_I.dir

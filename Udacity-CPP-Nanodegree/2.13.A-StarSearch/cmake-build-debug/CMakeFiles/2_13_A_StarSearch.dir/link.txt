@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/2_13_A_StarSearch.dir/main.cpp.o  -o 2_13_A_StarSearch 

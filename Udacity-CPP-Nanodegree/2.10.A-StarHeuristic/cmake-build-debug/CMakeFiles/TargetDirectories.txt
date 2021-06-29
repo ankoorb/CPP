@@ -1,3 +1,0 @@
-/Users/ankoor/Desktop/Programming/UdacityC++/2.10.A-StarHeuristic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ankoor/Desktop/Programming/UdacityC++/2.10.A-StarHeuristic/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ankoor/Desktop/Programming/UdacityC++/2.10.A-StarHeuristic/cmake-build-debug/CMakeFiles/2_10_A_StarHeuristic.dir

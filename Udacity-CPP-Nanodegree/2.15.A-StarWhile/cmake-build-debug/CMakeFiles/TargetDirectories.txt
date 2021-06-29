@@ -1,3 +1,0 @@
-/Users/ankoor/Desktop/Programming/UdacityC++/2.15.A-StarWhile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ankoor/Desktop/Programming/UdacityC++/2.15.A-StarWhile/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ankoor/Desktop/Programming/UdacityC++/2.15.A-StarWhile/cmake-build-debug/CMakeFiles/2_15_A_StarWhile.dir
