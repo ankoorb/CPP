@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ankoor/Desktop/Programming/UdacityC++/2.16.A-StarNeighborValidity/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+vector
+-
+algorithm
+-
+
