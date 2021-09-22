@@ -184,7 +184,9 @@ Matrix Matrix::Conv(const Matrix &image, const Matrix &kernel) {
             int value = 0;
             for (auto p = i; p < i + m; p++){
                 for (auto q = j; q < j + m; q++){
-                    value += image.data_[p % n][q % n] * kernel.data_[p % m][q % m];
+                    int s = (p - i) % m;
+                    int t = (q - i) % m;
+                    value += image.data_[p % n][q % n] * kernel.data_[s < 0 ? s + m : s][t < 0 ? t + m : t];
                 }
             }
             feature.data_[i][j] = value;
